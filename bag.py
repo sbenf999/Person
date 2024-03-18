@@ -31,7 +31,6 @@ class Bag:
         
     def getItem(self, itemName):
         for item_ in self.bag:
-            #print(item_)
             if item_.getInfo("name") == itemName:
                 return True
     
@@ -85,7 +84,7 @@ class Bag:
                 
                 else:
                     tmp += str(item)
-            
+    
             print(tmp)
 
         return self.bag

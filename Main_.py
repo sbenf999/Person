@@ -79,3 +79,17 @@ Billybob.getBag().remove(MobilePhone)
 
 Billybob.getBag().checkContents()
 
+#--------------------------------------------------Part7-submission--------------------------------------------------------
+'''
+See Person file for additional classes and methods
+'''
+
+#--------------------------------------------------Part8a-submission--------------------------------------------------------
+'''
+See Student and Teacher file for additional classes and methods
+'''
+
+#--------------------------------------------------Part8b-submission--------------------------------------------------------
+'''
+See Bag file for additional classes and methods
+'''
